@@ -1,6 +1,6 @@
 ### Hi there, I'm Shane 👋
 
-<img src="/gh-header-image.jpg"/>
+<img src="https://raw.githubusercontent.com/ShaneLee/ShaneLee/master/gh-header-image.jpg"/>
 
 <!--
 **ShaneLee/ShaneLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
