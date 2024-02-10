@@ -6,6 +6,10 @@ width="28px" alt="👋"></h1>
 
 
 ### Languages
+
+[![Top
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneLee&layout=compact&theme=gruvbox)]
+
 [![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=openjdk)](https://github.com/ShaneLee)
 [![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)](https://github.com/ShaneLee)
 [![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript)](https://github.com/ShaneLee)
